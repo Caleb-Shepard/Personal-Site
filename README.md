@@ -10,7 +10,7 @@ Hosted by Netlify at [elijahluckey.com](https://elijahluckey.com).
 
 ## Make it your own
 
-1. [For this repo](https://github.com/Luckey-Elijah/Personal-Site/fork) and make it your own!
+1. [Fork this repo](https://github.com/Luckey-Elijah/Personal-Site/fork) and make it your own!
 2. Install `gridsome`.
 3. Host locally with `gridsome develop`.
 4. Host online with [Netlify](https://www.netlify.com).
